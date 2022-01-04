@@ -30,3 +30,39 @@ body{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
+.dream-bg{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-bottom: 180px;
+}
+
+.full-web{
+    border-left: 10px solid;
+    box-shadow: 10px 10px 50px grey;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    border-radius: 20px;
+    width: 40%;
+    margin-left: 5%;
+}
+.baby-web{
+    border-right: 10px solid;
+    box-shadow: 10px 10px 50px grey;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+    width: 40%;
+    margin-left: 5%;
+    border-radius: 20px;
+}
+.experience-items{
+    font-size: 40px;
+    margin-left: 5%;
+}
+.section-margin{
+    margin-top: -100px;
+    margin-bottom: 40px;
+}
+footer{
+    text-align: center;
+}
